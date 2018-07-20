@@ -2,7 +2,8 @@
 
 OBJ = obj/def.o \
 		obj/tetris.o\
-		obj/keyboard.o
+		obj/keyboard.o\
+		obj/main.o
 
 CFLAGS= -Iinclude -g
 
